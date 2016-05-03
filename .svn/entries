@@ -1,0 +1,104 @@
+10
+
+dir
+242
+http://localhost:81/svn/samp/02Xu1
+http://localhost:81/svn/samp
+
+
+
+2010-02-22T10:54:27.823770Z
+214
+kye
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+12de4353-535e-47eb-9189-fd66218857d0
+
+exgui
+dir
+
+archive
+dir
+
+scm
+dir
+
+testbot
+dir
+
+raknet
+dir
+
+pawno
+dir
+
+saco
+dir
+
+arctool2
+dir
+
+samp-license.txt
+file
+
+
+
+
+2010-06-07T11:29:52.796875Z
+b51afeeff5b6afde1f28897a70f45287
+2009-04-06T18:25:08.230379Z
+2
+kye
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2051
+
+remoteac
+dir
+
+rcon
+dir
+
+server
+dir
+
+font
+dir
+
+announce
+dir
+
+nsis
+dir
+

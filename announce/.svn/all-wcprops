@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/samp/!svn/ver/4/02Xu1/announce
+END
+httpclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/announce/httpclient.cpp
+END
+runutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/samp/!svn/ver/4/02Xu1/announce/runutil.cpp
+END
+httpclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/announce/httpclient.h
+END
+announce.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/announce/announce.cpp
+END
+announce.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/announce/announce.vcproj
+END
+runutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/samp/!svn/ver/4/02Xu1/announce/runutil.h
+END
+announce.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/announce/announce.dsp
+END

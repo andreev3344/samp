@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9
+END
+d3dx9.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/d3dx9.lib
+END
+dsound.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/dsound.lib
+END
+d3dfont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/d3dfont.cpp
+END
+d3d9.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/d3d9.lib
+END
+d3dutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/d3dutil.cpp
+END
+dxguid.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/dxguid.lib
+END
+dxutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/dxutil.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/samp/!svn/ver/4/02Xu1/server/sqlite
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/server/sqlite/sqlite3.c
+END
+sqlite_amx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/server/sqlite/sqlite_amx.c
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/server/sqlite/sqlite3.h
+END

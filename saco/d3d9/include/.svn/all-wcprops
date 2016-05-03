@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include
+END
+d3dx9anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9anim.h
+END
+dplay8.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dplay8.h
+END
+ddraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/ddraw.h
+END
+d3d8.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d8.h
+END
+d3dvec.inl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dvec.inl
+END
+d3dx9mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9mesh.h
+END
+d3dx9xof.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9xof.h
+END
+dvoice.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dvoice.h
+END
+dplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dplay.h
+END
+d3drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3drm.h
+END
+rmxftmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/rmxftmpl.h
+END
+d3d9caps.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d9caps.h
+END
+d3dx9.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9.lib
+END
+dxerr8.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxerr8.h
+END
+dxtrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxtrans.h
+END
+dmusicc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmusicc.h
+END
+dxsdkver.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxsdkver.h
+END
+dplobby.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dplobby.h
+END
+d3dx9.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9.h
+END
+dmusici.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmusici.h
+END
+d3dfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dfont.h
+END
+dls1.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dls1.h
+END
+multimon.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/multimon.h
+END
+dsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dsetup.h
+END
+d3dx9core.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9core.h
+END
+dmusics.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmusics.h
+END
+dinputd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dinputd.h
+END
+strsafe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/strsafe.h
+END
+d3dutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dutil.h
+END
+dpnathlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dpnathlp.h
+END
+dsconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dsconf.h
+END
+d3dx9shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9shape.h
+END
+dmplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmplugin.h
+END
+d3dcaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dcaps.h
+END
+d3dx9shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9shader.h
+END
+dmksctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmksctrl.h
+END
+rmxfguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/rmxfguid.h
+END
+d3d9types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d9types.h
+END
+dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dsound.h
+END
+d3dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dtypes.h
+END
+d3dx9math.inl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9math.inl
+END
+dmdls.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmdls.h
+END
+d3d9.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d9.h
+END
+dinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dinput.h
+END
+d3drmobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3drmobj.h
+END
+d3dx9effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9effect.h
+END
+d3d8caps.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d8caps.h
+END
+dmerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmerror.h
+END
+dxfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxfile.h
+END
+dmusbuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmusbuff.h
+END
+d3dx9tex.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9tex.h
+END
+dxerr9.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxerr9.h
+END
+PIXPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/PIXPlugin.h
+END
+dplobby8.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dplobby8.h
+END
+d3d8types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d8types.h
+END
+d3drmdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3drmdef.h
+END
+dx7todx8.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dx7todx8.h
+END
+dvp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dvp.h
+END
+dmusicf.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dmusicf.h
+END
+dpaddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dpaddr.h
+END
+dxdiag.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxdiag.h
+END
+dls2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dls2.h
+END
+d3dx9math.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3dx9math.h
+END
+dxutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/dxutil.h
+END
+d3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3d.h
+END
+d3drmwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/d3d9/include/d3drmwin.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/samp/!svn/ver/4/02Xu1/pawno/include
+END
+core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/core.inc
+END
+a_objects.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/a_objects.inc
+END
+time.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/time.inc
+END
+a_players.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/a_players.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/file.inc
+END
+a_samp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/a_samp.inc
+END
+datagram.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/datagram.inc
+END
+a_vehicles.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/a_vehicles.inc
+END
+float.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/float.inc
+END
+a_sampdb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/a_sampdb.inc
+END
+string.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/pawno/include/string.inc
+END

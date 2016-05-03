@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/samp/!svn/ver/4/02Xu1/saco/gui
+END
+texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/texture.cpp
+END
+fontmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/fontmanager.cpp
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/texture.h
+END
+fontmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/fontmanager.h
+END
+font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/font.cpp
+END
+renderable.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/renderable.h
+END
+textbufferbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/textbufferbase.cpp
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/font.h
+END
+textbufferbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/textbufferbase.h
+END
+textbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/textbuffer.cpp
+END
+textbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/textbuffer.h
+END
+stateblockmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/stateblockmanager.cpp
+END
+stateblockmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/stateblockmanager.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/resource.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/samp/!svn/ver/4/02Xu1/saco/gui/common.h
+END

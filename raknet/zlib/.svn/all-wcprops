@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/trees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/zconf.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/trees.h
+END
+zconf.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/zconf.in.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/samp/!svn/ver/4/02Xu1/raknet/zlib/infback.c
+END
